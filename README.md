@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'am a Front-End Developer located in Russia, Moscow. <br>I like making beautiful things, whether it's software or art.<br>When I'm not making stuff, I enjoy photography and exploring new places. <br>If you think we should co-create something awesome together, let me know!<br><br>https://kristy-kosterkina.glitch.me/
+I'am a Front-End Developer located in Russia, Moscow. <br>I like making beautiful things, whether it's software or art.<br>When I'm not making stuff, I enjoy photography and exploring new places. <br>If you think we should co-create something awesome together, let me know!<br><br>[https://kristy-kosterkina.glitch.me/](https://kristykostyor.github.io/portfolio/)
 
 
 ## 🌐 Socials:
